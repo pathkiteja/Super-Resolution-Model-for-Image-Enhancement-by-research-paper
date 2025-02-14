@@ -1,2 +1,1 @@
-
-![Example Output](images.png)
+![Super Resolution Model](image.png)
